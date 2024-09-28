@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fuse56
 - 👀 I want to contribute my technical writing expertise to your open source project!
-- 🌱 I’m currently employed as an Applications Architect Supervisor.
+- 🌱 I’m currently employed as an Applications Architect Supervisor and Certified Technical Writer.
 - 💞️ I'm also a multi-instrumentalist, singer, and songwriter.  I perform in dozens of shows every year.
 - 📫 How to reach me: hotelsinger@gmail.com
 
